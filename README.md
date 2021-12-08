@@ -1,2 +1,2 @@
 # Page_multicoisas
-# Para inicial o projeto basta  ultilizar o npm install  ou yarn install  na pasta base do projeto 
+# Para iniciar o projeto basta ultilizar o npm install  ou yarn install  na pasta base do projeto 
